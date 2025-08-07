@@ -49,6 +49,6 @@ Este proyecto forma parte del programa ONE (Oracle Next Education) junto a Alura
 ## 🧠 Autores y Créditos
 
 Este proyecto fue desarrollado como parte del desafío práctico del curso **Formación en Ciencia de Datos - ONE/Alura**.
-
+Desarrollado por: Edu Peña García
 ---
 
